@@ -4,7 +4,7 @@ A **Drupal** module to control user permissions to authenticate with certain con
 
 ## :wave: Introduction
 
-:wrench: This module depends on `consumers` and `simple_oauth`.
+:wrench: This module depends on `consumers` and `simple_oauth`. Requires at least `PHP 8.0`.
 
 :warning: This is an **alpha** implementation.  
 :warning: It is only tested for the **Authorization Code Grant**.  
